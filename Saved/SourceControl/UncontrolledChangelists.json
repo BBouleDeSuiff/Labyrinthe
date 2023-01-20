@@ -5,7 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/FirstPersonArms/Character/Controller/IA_Move.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/FirstPersonArms/Character/Controller/IMC_Character.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/FirstPersonArms/Character/Controller/PC_Character.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/Le_Labyrinthe/Rules/GM_Rules.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/FirstPersonArms/Character/Controller/IA_Interact.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/FirstPersonArms/Character/Controller/IA_Camera.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Lever.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BreakableGround.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_BreakableGround.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/FirstPersonArms/Character/Controller/IA_LookUp.uasset",
+				"C:/Users/emaet/Desktop/Perso/Github/Labyrinthe/Content/FirstPersonArms/Character/Controller/IA_LookRight.uasset"
 			]
 		}
 	]
